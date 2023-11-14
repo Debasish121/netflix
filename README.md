@@ -1,7 +1,7 @@
 # Frontend project
 This project is about creating a basic Netflix-style user interface for easy content browsing and viewing
 
-[Link]()
+[Link](https://netflix-nu-dusky.vercel.app/)
 
 I have used
 1. React
