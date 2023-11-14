@@ -1,4 +1,5 @@
-# This project is about creating a basic Netflix-style user interface for easy content browsing and viewing
+# Frontend project
+This project is about creating a basic Netflix-style user interface for easy content browsing and viewing
 
 [Link]()
 
